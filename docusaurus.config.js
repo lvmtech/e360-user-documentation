@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
+  organizationName: 'lvmtech', // Usually your GitHub org/user name.
   projectName: 'e360-user-documentation', // Usually your repo name.
 
   presets: [
