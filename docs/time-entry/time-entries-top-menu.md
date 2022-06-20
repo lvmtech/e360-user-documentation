@@ -2,4 +2,12 @@
 sidebar_position: 1
 ---
 
-# Time Entries Top Menu
+# Quick Time Entries Top Menu
+
+![Alt text](/img/time/time_initial.png?raw=true "Time Entry")
+
+![Alt text](/img/time/time_export_this_week_data.png?raw=true "Time Entry")
+
+![Alt text](/img/time/time_export_this_week_exported_data.png?raw=true "Time Entry")
+
+![Alt text](/img/time/time_import_format.png?raw=true "Time Entry")

@@ -11,4 +11,3 @@ sidebar_position: 4
 ![Alt text](/img/case/case_invoice_paid.png?raw=true "Case")
 
 ![Alt text](/img/case/case_invoice_written_off.png?raw=true "Case")
-
