@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunke_360_user_documentation=self.webpackChunke_360_user_documentation||[]).push([[9700],{3640:function(a){a.exports=JSON.parse('{"allTagsPath":"/blog/tags","slug":"/blog/tags/hola","name":"hola","count":1,"permalink":"/blog/tags/hola"}')}}]);
