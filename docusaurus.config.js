@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'E360',
   tagline: 'Easy and convenient CMS',
-  url: 'https://lvmt.co',
-  baseUrl: '/',
+  url: 'https://lvmtech.github.io',
+  baseUrl: '/e360-user-documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

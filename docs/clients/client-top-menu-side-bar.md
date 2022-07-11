@@ -8,7 +8,7 @@ Client's top menu consists of "Create New Client", "View Audit History", "Edit",
 
 ![Alt text](/img/client/client_initial.png?raw=true "Client page with top pop-up menu and no client selected")
 
-Figure CL-1: Client page with top pop-up menu and no client selected
+Client page with top pop-up menu and no client selected
 
 ## Creating a Client
 
@@ -22,21 +22,21 @@ The main differences in entering data for company and person types are the top t
 
 ![Alt text](/img/client/client_create_form.png?raw=true "Create Client Form with all accordions closed")
 
-Figure CL-2: Create Client Form with all accordions closed
+Create Client Form with all accordions closed
 
 ![Alt text](/img/client/client_create_form_info_company.png?raw=true "Create Client Form with the top part of info accordion for the company type client")
 
-Figure CL-3: Create Client Form with the top part of info accordion for the company type client
+Create Client Form with the top part of info accordion for the company type client
 
 ![Alt text](/img/client/client_create_form_info_person.png?raw=true "Create Client Form with the top part of info accordion for the person type client")
 
-Figure CL-4: Create Client Form with the top part of info accordion for the person type client
+Create Client Form with the top part of info accordion for the person type client
 
 The info part of create client form also contains "Client ID", which is automatically generated after saving, "Salutation", "First Name", "Last Name", "Email", "Mobile", "Created By", "Referred By" and "Date Created", all of which must be filled. "Fax", "Phone" and "Notes", which is for adding any additional information related to the client needed to be entered.
 
 ![Alt text](/img/client/client_create_form_info.png?raw=true "Client")
 
-Figure CL-5
+Create Client Form with the lower part of info accordion for the person type client
 
 ### Postal Address
 
@@ -44,7 +44,7 @@ The next part of create client form is "Postal Address" which consists of five m
 
 ![Alt text](/img/client/client_create_form_postal_address.png?raw=true "Client")
 
-Figure CL-6
+Create Client Form with the postal address accordion
 
 ### Billing Address
 
@@ -52,11 +52,11 @@ Billing Address can be the same as postal address so if the check box telling "B
 
 ![Alt text](/img/client/client_create_form_billing_address.png?raw=true "Client")
 
-Figure CL-7
+Create Client Form with the billing address accordion
 
 ![Alt text](/img/client/client_create_form_billing_address_payment_settings.png?raw=true "Client")
 
-Figure CL-8
+Create Client Form with the billing address accordion
 
 ### Payment Settings
 
@@ -64,13 +64,13 @@ Payment Settings has fields such as "Select Payment Terms", "Select Billing Term
 
 ![Alt text](/img/client/client_create_form_payment_settings_payment_term_options.png?raw=true "Client")
 
-Figure CL-9
+Create Client Form's payment setting accordion with payment term options
 
 The options available for "Select Billing Terms" are "Monthly" and "On Case Completion".
 
 ![Alt text](/img/client/client_create_form_payment_settings_billing_term_options.png?raw=true "Client")
 
-Figure CL-10
+Create Client Form's payment setting accordion with billing term options
 
 ## Viewing audit history
 
@@ -78,7 +78,7 @@ If you click "View Audit History" from the top menu, a list of actions taken on 
 
 ![Alt text](/img/client/client_view_audit.png?raw=true "Client")
 
-Figure CL-11
+Client's audit history
 
 ## Updating a Client
 
@@ -86,7 +86,7 @@ Edit button will be disabled if no client is selected as it appears in the pictu
 
 ![Alt text](/img/client/client_update.png?raw=true "Client")
 
-Figure CL-12
+Client update form auto-filled with existing information
 
 ## Archiving a Client
 Archiving a client does not delete the client permanently. It is more like a soft delete and the archived data, which can be client, case or invoices, can be retrieved back by unarchiving. 
@@ -95,11 +95,11 @@ Archiving a client does not delete the client permanently. It is more like a sof
 
 ![Alt text](/img/client/client_side_setting_button.png?raw=true "Client")
 
-Figure CL-13
+Buttons popping up after the setting icon has been clicked from the side bar
 
 ![Alt text](/img/client/client_side_setting_show_archived_on.png?raw=true "Client")
 
-Figure CL-14
+Archived clients set to be shown in the list
 
 ## Deleting a Client
 Unlike archiving, deleting clients cannot be undone.
@@ -114,14 +114,20 @@ Default sorting is the sorting of clients by chronological order.
 
 ![Alt text](/img/client/client_side_setting_sort_default.png?raw=true "Client")
 
-Figure CL-14
+Client Default Sorting
 
 ![Alt text](/img/client/client_side_setting_sort_options.png?raw=true "Client")
 
-Figure CL-15
+List of fields by which clients can be sorted
 
 ![Alt text](/img/client/client_side_setting_sort_firstname.png?raw=true "Client")
 
-Figure CL-16
+Sorting by ascending or descending
 
-## Creating a Client from side bar?
+## Creating a Client from side bar
+
+By clicking the small add icon in the side bar, clients can be created.
+
+![Alt text](/img/client/client_create_add_icon.png?raw=true "Client create icon in side bar")
+
+Client create icon in side bar

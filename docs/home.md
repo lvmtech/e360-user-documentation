@@ -8,7 +8,7 @@ sidebar_position: 3
 The following image depicts the overview part of the dashboard. Let's break it down and check what it contains.
 ![Alt text](/img/home/home_overview.png?raw=true "Home overview part")
 
-Figure HO-1: Home overview part
+Home overview part
 
 ### Awaiting Payment
 Awaiting Payment card totals the amount of all the unpaid invoices.
@@ -33,7 +33,7 @@ This section shows the list of currently logged in lawyer's five recent time / e
 
 ![Alt text](/img/home/home_uninvoice_time_expense.png?raw=true "Uninvoiced time expense and 10 recent time/expense tables")
 
-Figure HO-2: Uninvoiced time expense and 10 recent time/expense tables
+Uninvoiced time expense and 10 recent time/expense tables
 
 ## 10 Recent Time / Expense by Invoice Type
 
@@ -45,4 +45,4 @@ This table shows the list of 10 cases, which have not been active for the longes
 
 ![Alt text](/img/home/home_inactive_cases.png?raw=true "Home")
 
-Figure HO-3: Inactive case table
+Inactive case table

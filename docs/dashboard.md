@@ -8,7 +8,7 @@ sidebar_position: 2
 The following image depicts the overview part of the dashboard. Let's break it down and check what it contains.
 ![Alt text](/img/dashboard/dashboard_overview.png?raw=true "Dashboard overview part")
 
-Figure DB-1: Dashboard overview part
+Dashboard overview part
 
 ### Awaiting Payment
 Awaiting Payment card totals the amount of all the unpaid invoices.
@@ -37,7 +37,7 @@ This table shows top 10 staffs based on total hours of time entries entered for 
 
 ![Alt text](/img/dashboard/dashboard_top10staff_uninvoiced_time_expense.png?raw=true "Top 10 staff and uninvoiced time expense tables")
 
-Figure DB-2: Top 10 staff and uninvoiced time expense tables
+Top 10 staff and uninvoiced time expense tables
 
 ### Uninvoiced Time/Expense Summary by Case
 
@@ -49,4 +49,4 @@ This table shows 10 recent unpaid invoices.
 
 ![Alt text](/img/dashboard/dashboard_unpaid_invoices.png?raw=true "Unpaid invoice table")
 
-Figure DB-3: Unpaid invoice table
+Unpaid invoice table
